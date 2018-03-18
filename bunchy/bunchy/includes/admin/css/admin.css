@@ -1,0 +1,260 @@
+.g1ui-settings-section iframe {
+    width: 100%;
+}
+
+.g1ui-navicons {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+
+    margin: 1.5em 0 0.75em;
+    padding: 0 10px;
+}
+
+.g1ui-navicon {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+
+    width: 100px;
+    margin: 0 4px 4px 0;
+    padding: 1em 1em;
+    border-width: 1px;
+
+    text-align: center;
+    text-decoration: none;
+    border-style: solid;
+
+    -webkit-transition: border-color 0.375s ease-in-out;
+    -webkit-transition-delay: background-color;
+    -moz-transition: border-color 0.375s ease-in-out background-color;
+    -o-transition: border-color 0.375s ease-in-out background-color;
+    transition: border-color 0.375s ease-in-out background-color 0.375s ease-in-out color 0.375s ease-in-out;
+
+    border-color: transparent;
+}
+
+.g1ui-navicon:hover {
+    border-color: #ddd;
+}
+
+.g1ui-navicon-current {
+    border-color: #ddd;
+    background-color: #fff;
+}
+
+.g1ui-navicon-icon {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+
+    width: 1em;
+    height: 1em;
+    margin-bottom: 8px;
+    margin-left: auto;
+    margin-right: auto;
+
+    font-size: 48px;
+    text-align: center;
+
+    -webkit-transition: all 0.375s ease-in-out;
+    -moz-transition: all 0.375s ease-in-out;
+    -o-transition: all 0.375s ease-in-out;
+    transition: all 0.375s ease-in-out;
+}
+
+.g1ui-navicon-title {
+    line-height: 1.25;
+    color: #666;
+}
+
+.g1ui-navicon-title > small {
+    display: block;
+    font-style: italic;
+    opacity: 0.666;
+}
+
+
+.g1ui-navicon-ads .g1ui-navicon-icon { background: url(../images/settings-ads-icon-48.png) center center no-repeat; }
+
+.g1ui-navicon-socials .g1ui-navicon-icon { background: url(../images/settings-socials-icon-48.png) center center no-repeat; }
+
+.g1ui-navicon-advanced .g1ui-navicon-icon { background: url(../images/settings-advanced-icon-48.png) center center no-repeat; }
+
+.g1ui-navicon-theme .g1ui-navicon-icon { background: url(../images/settings-theme-icon-48.png) center center no-repeat; }
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (min-device-pixel-ratio: 2) {
+    .g1ui-navicon-icon {
+        background-size: 48px !important;
+    }
+
+    .g1ui-navicon-ads .g1ui-navicon-icon {
+        background-image: url(../images/settings-ads-icon-96.png);
+    }
+
+    .g1ui-navicon-socials .g1ui-navicon-icon {
+        background-image: url(../images/settings-socials-icon-96.png);
+    }
+
+    .g1ui-navicon-advanced .g1ui-navicon-icon {
+        background-image: url(../images/settings-advanced-icon-96.png);
+    }
+
+    .g1ui-navicon-theme .g1ui-navicon-icon {
+        background: url(../images/settings-theme-icon-96.png);
+    }
+
+    .nav-tab:focus {
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    }
+}
+
+/* Sidebar generator */
+.g1ui-sidegen { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; margin: 10px 0; padding: 15px 15px; border-width: 1px; border-style: solid; border-color: #d9d9d9; background-color: #e6e6e6; }
+.g1ui-sidegen label { display: block; margin-bottom: 10px; font-weight: bold; font-size: 1.17em; font-size: 1.3em; }
+
+.g1ui-sidegen-has-errors { border-color: #ffd9d9; background-color: #ffe5e5; }
+
+.g1ui-sidegen-inline { display: flex; }
+.g1ui-sidegen-inline input[type="text"] { flex: 1; margin-right: 0.5em; }
+
+.g1ui-sidegen-item-actions { margin: 0; padding: 7px 15px; border-width: 1px 0 0; border-style: solid; text-align: right; border-color: #e5e5e5; }
+
+.g1ui-sidegen-item-actions-loader + .g1ui-sidegen-item-actions-remove { display: none; }
+
+.g1ui-sidegen-item-errors { padding: 0 15px; }
+
+#widgets-right #g1ui-sidegen { max-width: 450px; }
+
+@media only screen and (min-width: 1250px) { #widgets-right #g1ui-sidegen { float: right; width: 49%; } }
+/* Subtitle field */
+.g1ui-subtitle { margin: 3px 0 20px; }
+.g1ui-subtitle input[type="text"] { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; width: 100%; padding-left: 8px; padding-right: 8px; }
+
+.g1ui-post-format-field { margin: 3px 0 10px; }
+.g1ui-post-format-field label { display: block; margin-bottom: 6px; }
+.g1ui-post-format-field textarea { width: 100%; min-height: 5em; }
+
+.g1ui-settings-section iframe { width: 100%; }
+.g1ui-settings-section iframe * { display: none; }
+.g1ui-settings-section iframe #wpwrap { display: block; }
+
+#poststuff .g1-pb-content .g1-mega { font-size: 48px; line-height: 1.2; }
+#poststuff .g1-pb-content h1, #poststuff .g1-pb-content .g1-alpha { font-size: 36px; line-height: 1.2; }
+#poststuff .g1-pb-content h2, #poststuff .g1-pb-content .g1-beta { font-size: 30px; line-height: 1.2; }
+#poststuff .g1-pb-content h3, #poststuff .g1-pb-content .g1-gamma { font-size: 24px; line-height: 1.2; }
+#poststuff .g1-pb-content h4, #poststuff .g1-pb-content .g1-delta { font-size: 18px; line-height: 1.2; }
+#poststuff .g1-pb-content h5, #poststuff .g1-pb-content .g1-epsilon { font-size: 16px; line-height: 1.2; }
+#poststuff .g1-pb-content h6, #poststuff .g1-pb-content .g1-zeta { font-size: 14px; line-height: 1.2; }
+#poststuff .g1-pb-content .g1-mega-2nd, #poststuff .g1-pb-content .g1-alpha-2nd, #poststuff .g1-pb-content .g1-beta-2nd, #poststuff .g1-pb-content .g1-gamma-2nd, #poststuff .g1-pb-content .g1-delta-2nd, #poststuff .g1-pb-content .g1-epsilon-2nd, #poststuff .g1-pb-content .g1-zeta-2nd { text-transform: uppercase; letter-spacing: 0.1em; }
+#poststuff .g1-pb-content h1, #poststuff .g1-pb-content h2, #poststuff .g1-pb-content h3, #poststuff .g1-pb-content h4, #poststuff .g1-pb-content h5, #poststuff .g1-pb-content h6, #poststuff .g1-pb-content p { margin-bottom: 20px; }
+#poststuff .g1-pb-content h1:last-child, #poststuff .g1-pb-content h2:last-child, #poststuff .g1-pb-content h3:last-child, #poststuff .g1-pb-content h4:last-child, #poststuff .g1-pb-content h5:last-child, #poststuff .g1-pb-content h6:last-child, #poststuff .g1-pb-content p:last-child { margin-bottom: 0; }
+
+.g1-theme-plugins > th, .g1-theme-plugins > td { background-color: #0dc5dc; color: #fff; }
+
+.g1-theme-plugins-switcher { display: block; padding: 10px 0; font-size: 18px; color: #fff; }
+
+.g1-theme-plugins-switcher:hover { color: #000; }
+
+#g1-ads .plugin-title > strong:before, #g1-better-titles .plugin-title > strong:before, #g1-mailchimp .plugin-title > strong:before, #g1-more-than-menu .plugin-title > strong:before, #g1-page-builder .plugin-title > strong:before, #g1-quotes .plugin-title > strong:before, #g1-reviews .plugin-title > strong:before, #g1-socials .plugin-title > strong:before, #g1-twitter .plugin-title > strong:before, #g1-users .plugin-title > strong:before { margin: 0 5px 0 0; padding: 1px 6px; font-size: 10px; line-height: 1; font-weight: normal; text-transform: uppercase; vertical-align: middle; content: "Theme"; -webkit-border-radius: 1em; -moz-border-radius: 1em; -ms-border-radius: 1em; -o-border-radius: 1em; border-radius: 1em; background-color: #0dc5dc; color: #fff; }
+
+#g1ui-settings-section-pages, #g1ui-settings-section-g1_ads_options, #g1ui-settings-section-g1_twitter_options, #g1ui-settings-section-g1_mailchimp_options, #g1ui-settings-section-g1_socials_options, #g1ui-settings-section-advanced, #g1ui-settings-section-import { border-top: 1px solid #ccc; }
+
+#g1-audio-data-wrapper, #g1-video-data-wrapper { display: none; }
+
+.g1ui-plugicons { display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap; margin-bottom: 3em; letter-spacing: -0.31em; }
+
+.g1ui-plugicon { display: inline-block; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; position: relative; width: 140px; margin: 0 6px 6px 0; padding: 15px 10px 50px; border-width: 1px; vertical-align: top; letter-spacing: normal; text-align: center; border-style: solid; -webkit-transition: border-color 0.375s ease-in-out, background-color 0.375s ease-in-out, color 0.375s ease-in-out, opacity 0.375s ease-in-out; -moz-transition: border-color 0.375s ease-in-out, background-color 0.375s ease-in-out, color 0.375s ease-in-out, opacity 0.375s ease-in-out; -o-transition: border-color 0.375s ease-in-out, background-color 0.375s ease-in-out, color 0.375s ease-in-out, opacity 0.375s ease-in-out; transition: border-color 0.375s ease-in-out, background-color 0.375s ease-in-out, color 0.375s ease-in-out, opacity 0.375s ease-in-out; border-color: #d9d9d9; background-color: #fff; }
+
+.g1ui-plugicon-g1-ads .g1ui-plugicon-icon { background-image: url(../images/settings-ads-icon-48.png); }
+.g1ui-plugicon-g1-socials .g1ui-plugicon-icon { background-image: url(../images/settings-socials-icon-48.png); }
+
+.g1ui-plugicon-title { display: block; margin: 0.75em 0; }
+
+.g1ui-plugicon-desc { display: block; font-size: 12px; opacity: 0.66; }
+
+.g1ui-plugicon-bar { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; position: absolute; left: 0; bottom: 0; width: 100%; padding: 10px; -webkit-transition: border-color 0.375s ease-in-out, background-color 0.375s ease-in-out, color 0.375s ease-in-out, opacity 0.375s ease-in-out; -moz-transition: border-color 0.375s ease-in-out, background-color 0.375s ease-in-out, color 0.375s ease-in-out, opacity 0.375s ease-in-out; -o-transition: border-color 0.375s ease-in-out, background-color 0.375s ease-in-out, color 0.375s ease-in-out, opacity 0.375s ease-in-out; transition: border-color 0.375s ease-in-out, background-color 0.375s ease-in-out, color 0.375s ease-in-out, opacity 0.375s ease-in-out; }
+
+.g1ui-plugicon-checked { cursor: pointer; }
+.g1ui-plugicon-checked .g1ui-plugicon-bar { background-color: #e6e6e6; }
+
+.g1ui-plugicon-unchecked { cursor: pointer; background-color: transparent; }
+
+.g1ui-plugicon-omitted { opacity: 0.1; }
+.g1ui-plugicon-omitted .g1ui-plugicon-checkbox { visibility: hidden; }
+
+.g1ui-plugicon-loading .g1ui-plugicon-checkbox { visibility: hidden; }
+.g1ui-plugicon-loading .g1ui-plugicon-bar:after { display: block; position: absolute; z-index: 2; left: 0; top: 0; width: 100%; height: 100%; content: ""; background: url(/wp-admin/images/spinner.gif) no-repeat center center; }
+
+.g1ui-plugicon-pending .g1ui-plugicon-checkbox { visibility: hidden; }
+
+.g1ui-plugicon-succeed { border-color: #00c08e; }
+.g1ui-plugicon-succeed .g1ui-plugicon-bar { background-color: #00c08e; color: #fff; }
+.g1ui-plugicon-succeed .g1ui-plugicon-bar:before { display: block; position: absolute; left: 50%; top: 50%; width: 1em; height: 1em; margin: -0.5em 0 0 -0.5em; font-size: 20px; line-height: 1; font-family: dashicons; content: "\f106"; }
+.g1ui-plugicon-succeed .g1ui-plugicon-checkbox { visibility: hidden; }
+
+.g1ui-plugicon-failed { border-color: #ff435c; }
+.g1ui-plugicon-failed .g1ui-plugicon-bar { background-color: #ff435c; color: #fff; }
+.g1ui-plugicon-failed .g1ui-plugicon-bar:before { display: block; position: absolute; left: 50%; top: 50%; width: 1em; height: 1em; margin: -0.5em 0 0 -0.5em; font-size: 20px; line-height: 1; font-family: dashicons; content: "\f227"; }
+.g1ui-plugicon-failed .g1ui-plugicon-checkbox { visibility: hidden; }
+
+.g1ui-demicons { margin-bottom: 3em; }
+
+.g1ui-plugicon-progress { display: block; position: absolute; top: 0; left: 0; height: 4px; background-color: #00c08e; }
+
+.g1ui-wrap-simplified .g1ui-navicons, .g1ui-wrap-simplified .g1ui-settings-toolbar, .g1ui-wrap-simplified .nav-tab-wrapper { display: none !important; }
+
+.g1ui-richfont-meta .g1ui-richfont-preview { font-size: 14px; }
+.g1ui-richfont-meta-alt .g1ui-richfont-preview { font-size: 14px; }
+.g1ui-richfont-ui1 .g1ui-richfont-preview { font-size: 18px; }
+.g1ui-richfont-ui2 .g1ui-richfont-preview { font-size: 18px; }
+
+
+.g1ui-cols {
+    max-width: 1140px;
+    margin-bottom: 3em;
+}
+
+.g1ui-cols:after {
+    display: table;
+    clear: both;
+    content: "";
+}
+
+
+.g1ui-col {
+    display: block;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 33%;
+}
+
+/* Wordpress Importer plugin shouldn't be visible for the user */
+.g1ui-plugicon.g1ui-plugicon-wordpress-importer { display: none !important; }
+
+
+

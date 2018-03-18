@@ -1,0 +1,2768 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: ../bunchy/includes/admin/tgm-config.php:56
+#: ../bunchy/includes/admin/tgm-config.php:67
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bunchy 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ../bunchy/404.php:27
+msgid "Ooops, sorry! We couldn't find it"
+msgstr ""
+
+#: ../bunchy/404.php:28
+msgid "You have requested a page or file which doesn't exist"
+msgstr ""
+
+#: ../bunchy/404.php:42
+msgid "Search Our Website"
+msgstr ""
+
+#: ../bunchy/404.php:50
+msgid "Report a Problem"
+msgstr ""
+
+#: ../bunchy/404.php:51
+#, php-format
+msgid ""
+"Please write some descriptive information about your problem, and email our "
+"<a href=\"%s\">webmaster</a>."
+msgstr ""
+
+#: ../bunchy/404.php:58
+msgid "Back to the Homepage"
+msgstr ""
+
+#: ../bunchy/404.php:59
+#, php-format
+msgid ""
+"You can also <a href=\"%s\">go back to the homepage</a> and start browsing "
+"from there."
+msgstr ""
+
+#: ../bunchy/buddypress/activity/activity-loop.php:35
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:160
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:257
+#: ../bunchy/template-parts/archive-pagination-infinite-scroll-on-demand.php:23
+#: ../bunchy/template-parts/archive-pagination-infinite-scroll.php:23
+#: ../bunchy/template-parts/archive-pagination-load-more.php:23
+msgid "Load More"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/activity-loop.php:49
+msgid "Sorry, there was no activity found. Please try a different filter."
+msgstr ""
+
+#: ../bunchy/buddypress/activity/comment.php:31
+#, php-format
+msgid ""
+"<a href=\"%1$s\">%2$s</a> replied <a href=\"%3$s\" class=\"activity-time-"
+"since\"><span class=\"time-since\">%4$s</span></a>"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/comment.php:46
+msgid "Reply"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/comment.php:52
+msgid "Delete"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:55
+msgid "The public activity for everyone on this site."
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:55
+#: ../bunchy/buddypress/members/index.php:53
+#, php-format
+msgid "All Members %s"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:72
+msgid "The activity of my friends only."
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:72
+#: ../bunchy/buddypress/members/index.php:56
+#, php-format
+msgid "My Friends %s"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:92
+msgid "The activity of groups I am a member of."
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:93
+#: ../bunchy/buddypress/groups/index.php:47
+#, php-format
+msgid "My Groups %s"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:112
+msgid "The activity I've marked as a favorite."
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:112
+#, php-format
+msgid "My Favorites %s"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:127
+msgid "Activity that I have been mentioned in."
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:127
+msgid "Mentions"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:129
+#, php-format
+msgctxt "Number of new activity mentions"
+msgid "%s new"
+msgid_plural "%s new"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/buddypress/activity/index.php:151
+msgid "RSS Feed"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:151
+msgid "RSS"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:163
+msgid "Show:"
+msgstr ""
+
+#: ../bunchy/buddypress/activity/index.php:165
+msgid "&mdash; Everything &mdash;"
+msgstr ""
+
+#. /bp-legacy/buddypress/activity/index.php
+#: ../bunchy/buddypress/groups/index.php:44
+#, php-format
+msgid "All Groups %s"
+msgstr ""
+
+#: ../bunchy/buddypress/groups/index.php:75
+#: ../bunchy/buddypress/members/index.php:83
+msgid "Order By:"
+msgstr ""
+
+#: ../bunchy/buddypress/groups/index.php:78
+#: ../bunchy/buddypress/members/index.php:85
+msgid "Last Active"
+msgstr ""
+
+#: ../bunchy/buddypress/groups/index.php:79
+msgid "Most Members"
+msgstr ""
+
+#: ../bunchy/buddypress/groups/index.php:80
+msgid "Newly Created"
+msgstr ""
+
+#: ../bunchy/buddypress/groups/index.php:81
+#: ../bunchy/buddypress/members/index.php:89
+msgid "Alphabetical"
+msgstr ""
+
+#: ../bunchy/buddypress/groups/single/index.php:112
+#, php-format
+msgid "active %s"
+msgstr ""
+
+#: ../bunchy/buddypress/groups/single/index.php:123
+msgid "Group Admins"
+msgstr ""
+
+#: ../bunchy/buddypress/groups/single/index.php:143
+msgid "Group Mods"
+msgstr ""
+
+#: ../bunchy/buddypress/members/index.php:86
+msgid "Newest Registered"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:11
+#: ../bunchy/includes/plugins/buddypress.php:248
+msgid "Change Profile Photo"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:24
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. If "
+"there is a <a href=\"http://gravatar.com\">Gravatar</a> associated with your "
+"account email we will use that, or you can upload an image from your "
+"computer."
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:31
+msgid ""
+"Click below to select a JPG, GIF or PNG format photo from your computer and "
+"then click 'Upload Image' to proceed."
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:34
+#: ../bunchy/includes/admin/theme-options/theme-options.php:397
+#: ../bunchy/includes/admin/theme-options/theme-options.php:398
+msgid "Select an image"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:36
+msgid "Upload Image"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:41
+msgid ""
+"If you'd like to delete your current profile photo but not upload a new one, "
+"please use the delete profile photo button."
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:42
+msgid "Delete Profile Photo"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:42
+msgid "Delete My Profile Photo"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:49
+msgid "Crop Your New Profile Photo"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:51
+msgid "Profile photo to crop"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:54
+msgid "Profile photo preview"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:57
+msgid "Crop Image"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-avatar.php:81
+msgid ""
+"Your profile photo will be used on your profile and throughout the site. To "
+"change your profile photo, please create an account with <a href=\"http://"
+"gravatar.com\">Gravatar</a> using the same email address as you used to "
+"register with this site."
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-cover-image.php:11
+#: ../bunchy/includes/plugins/buddypress.php:226
+#: ../bunchy/includes/plugins/buddypress.php:276
+msgid "Change Cover Image"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/change-cover-image.php:22
+msgid "Your Cover Image will be used to customize the header of your profile."
+msgstr ""
+
+#. /bp-legacy/buddypress/members/single/profile/profile-wp.php
+#: ../bunchy/buddypress/members/single/profile/edit.php:26
+#, php-format
+msgid "Editing '%s' Profile Group"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/edit.php:58
+#: ../bunchy/buddypress/members/single/profile/edit.php:78
+#, php-format
+msgid "This field can be seen by: %s"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/edit.php:62
+msgid "Change"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/edit.php:67
+msgid "Who can see this field?"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/edit.php:72
+msgid "Close"
+msgstr ""
+
+#. /bp-legacy/buddypress/members/single/profile/profile-wp.php
+#: ../bunchy/buddypress/members/single/profile/edit.php:105
+#: ../bunchy/includes/admin/theme-options/theme-options.php:264
+msgid "Save Changes"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/profile-wp.php:28
+msgid "My Profile"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/profile-wp.php:28
+#, php-format
+msgid "%s's Profile"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/profile-wp.php:35
+#: ../bunchy/includes/front/comment.php:140
+msgid "Name"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/profile-wp.php:44
+msgid "About Me"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/profile-wp.php:53
+#: ../bunchy/includes/front/comment.php:148
+msgid "Website"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/profile-wp.php:62
+msgid "Jabber"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/profile-wp.php:71
+msgid "AOL Messenger"
+msgstr ""
+
+#: ../bunchy/buddypress/members/single/profile/profile-wp.php:80
+msgid "Yahoo Messenger"
+msgstr ""
+
+#: ../bunchy/comments.php:34
+#, php-format
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/comments.php:38
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../bunchy/comments.php:52 ../bunchy/includes/theme.php:277
+#: ../bunchy/template-parts/archive-pagination.php:50
+msgid "Pages"
+msgstr ""
+
+#: ../bunchy/comments.php:63
+#, php-format
+msgid "One Ping"
+msgid_plural "%1$s Pings & Trackbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/date.php:21
+msgid "Yearly Archives"
+msgstr ""
+
+#: ../bunchy/date.php:26
+msgid "Monthly Archives"
+msgstr ""
+
+#: ../bunchy/date.php:31
+msgid "Daily Archives"
+msgstr ""
+
+#: ../bunchy/footer.php:68
+msgid "Back to Top"
+msgstr ""
+
+#: ../bunchy/header.php:87
+msgid "Search"
+msgstr ""
+
+#: ../bunchy/header.php:99 ../bunchy/header.php:100 ../bunchy/header.php:104
+msgid "Follow us"
+msgstr ""
+
+#: ../bunchy/header.php:127
+msgid "Menu"
+msgstr ""
+
+#: ../bunchy/includes/admin/common.php:57
+msgid "ID"
+msgstr ""
+
+#: ../bunchy/includes/admin/common.php:85
+#: ../bunchy/includes/admin/metaboxes/page-single-options.php:96
+msgid "Featured Image"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-defaults.php:126
+msgid "Want more stuff like this?"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-defaults.php:127
+#: ../bunchy/includes/admin/customizer/customizer-defaults.php:128
+msgid "Get the best viral stories straight into your inbox!"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-footer.php:19
+msgid "Footer"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-footer.php:33
+#: ../bunchy/includes/admin/customizer/customizer-design-footer.php:123
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:120
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:211
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:147
+msgid "Background"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-footer.php:48
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:135
+msgid "Headings &amp; Titles"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-footer.php:63
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:150
+msgid "Regular Text"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-footer.php:78
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:165
+msgid "Small Text Descriptions"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-footer.php:93
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:181
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:134
+msgid "Accent"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-footer.php:109
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:197
+msgid "Secondary Color Scheme"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-footer.php:110
+msgid "Will be applied to buttons, badges &amp; flags."
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-footer.php:138
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:226
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:121
+msgid "Text"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:19
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:19
+msgid "Global"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:33
+msgid "Layout"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:38
+msgid "boxed"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:39
+msgid "stretched"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:52
+msgid "Boxed Layout Width"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:67
+msgid "Boxed Layout Background"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:82
+msgid "Google Font Subset"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:86
+msgid "Latin"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:87
+msgid "Latin Extended"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:88
+msgid "Cyrillic"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:89
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:90
+msgid "Greek"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:91
+msgid "Greek Extended"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:92
+msgid "Vietnamese"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:106
+msgid "Basic Color Scheme"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:107
+msgid "Will be applied to buttons, badges."
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:166
+msgid "Post bylines, comment dates, meta information"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-global.php:198
+msgid "Will be applied to buttons, badges &amp; flags"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:19
+msgid "Header"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:33
+msgid "Sticky Header"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:38
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:138
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:91
+msgid "enabled"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:39
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:137
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:90
+msgid "disabled"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:51
+msgid "Navbar Background"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:64
+msgid "Navbar Text"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:77
+msgid "Navbar Accent"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:91
+msgid "Logo Margin Top"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:106
+msgid "Logo Margin Bottom"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:161
+msgid "Button Text"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:175
+msgid "Button Background"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:191
+msgid "Submenu Background"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:204
+msgid "Submenu Text"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-design-header.php:217
+msgid "Submenu Accent"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:19
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:59
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:90
+msgid "Featured Entries"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:33
+msgid "Visibility"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:37
+#: ../bunchy/includes/theme.php:265
+msgid "Home"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:38
+msgid "Single post"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:55
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:60
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:64
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:95
+msgid "most shared"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:61
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:65
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:96
+msgid "most viewed"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:62
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:66
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:97
+msgid "recent"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:63
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:67
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:127
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:98
+msgid "none"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:114
+msgid "Category"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:115
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:133
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:172
+msgid "you can choose many"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:132
+msgid "Tag"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:150
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:237
+msgid "Time range"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:155
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:86
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:194
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:242
+msgid "last 24 hours"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:156
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:87
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:195
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:244
+msgid "last 7 days"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:157
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:88
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:196
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:246
+msgid "last 30 days"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:158
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:89
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:197
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:248
+msgid "all time"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:172
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:177
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:53
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:196
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:249
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:303
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:274
+msgid "Hide Elements"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:176
+msgid "Share Count"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:177
+msgid "View Count"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-featured-entries.php:178
+msgid "Comment Count"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-newsletter.php:19
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:204
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:65
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:300
+#: ../bunchy/template-parts/newsletter-after-content.php:14
+#: ../bunchy/template-parts/newsletter-inside-classic.php:16
+#: ../bunchy/template-parts/newsletter-inside-grid.php:16
+#: ../bunchy/template-parts/newsletter-inside-list.php:16
+msgid "Newsletter"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-newsletter.php:33
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:183
+#: ../bunchy/snax/posts/form-edit/row-content-title.php:11
+msgid "Title"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-newsletter.php:34
+msgid ""
+"Main title, used after a single post content and inside list collection."
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-newsletter.php:49
+msgid "Subtitle"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-newsletter.php:50
+msgid "Used below the main title."
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-newsletter.php:65
+msgid "Compact title"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-newsletter.php:66
+msgid "Used for widgets and inside grid collection."
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-newsletter.php:81
+msgid "Privacy"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:19
+msgid "Archive"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:34
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:33
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:44
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:206
+msgid "Template"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:39
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:49
+msgid "1 Featured + List with Sidebar"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:40
+msgid "3 Featured + List with Sidebar"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:41
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:50
+msgid "1 Featured + Grid with Sidebar"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:42
+msgid "3 Featured + Grid with Sidebar"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:43
+msgid "3 Featured + Grid"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:44
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:52
+msgid "1 Featured + Classic with Sidebar"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:45
+msgid "3 Featured + Classic with Sidebar"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:81
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:189
+msgid "Featured Entries Time range"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:104
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:211
+msgid "Featured Entries Hide Elements"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:108
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:188
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:201
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:254
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:308
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:215
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:284
+msgid "Shares"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:109
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:189
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:62
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:202
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:255
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:309
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:216
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:285
+msgid "Views"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:110
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:190
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:61
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:203
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:256
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:310
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:217
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:286
+msgid "Comments Link"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:111
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:182
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:57
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:204
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:257
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:311
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:221
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:279
+msgid "Categories"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:139
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:236
+msgid "Entries per page"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:155
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:106
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:252
+msgid "Pagination"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:161
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:258
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:162
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:259
+msgid "Infinite Scroll (first load via click)"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:163
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:260
+msgid "Prev/Next Pages"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:181
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:63
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:200
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:253
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:307
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:278
+msgid "Featured Media"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:184
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:205
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:258
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:312
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:222
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:280
+msgid "Summary"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:185
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:58
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:206
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:259
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:313
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:219
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:281
+msgid "Author"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:186
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:59
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:207
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:260
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:314
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:218
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:282
+msgid "Avatar"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:187
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:60
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:208
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:261
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:315
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:220
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:283
+msgid "Date"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:209
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:258
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:305
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:359
+msgid "inject into post collection"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:210
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:259
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:306
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:360
+#: ../bunchy/includes/admin/metaboxes/page-single-options.php:106
+msgid "hide"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:222
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:319
+msgid "Inject newsletter after post"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:227
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:324
+msgid "eg. 2"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:253
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:354
+msgid "Ad"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:271
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:373
+msgid "Inject ad after post"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-archive.php:276
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:378
+msgid "eg. 5"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:34
+msgid "Latest posts page"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:50
+msgid "Hot posts page"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:66
+msgid "Popular posts page"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:82
+msgid "Trending posts page"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:98
+msgid "Hide views"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:99
+msgid ""
+"If you fill in any number here, the views for a specific post are not shown "
+"until the view count of this number is reached."
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:114
+msgid "Hide comments"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:115
+msgid ""
+"If you fill in any number here, the comments for a specific post are not "
+"shown until the comment count of this number is reached."
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:131
+msgid "Convert date to time ago"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-global.php:132
+msgid ""
+"Instead of displaying full date, use timestamps like \"4 minutes ago\", \"1 "
+"day ago\"."
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-nsfw.php:19
+msgid "NSFW"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-nsfw.php:34
+msgid "Enabled?"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-nsfw.php:49
+msgid "NSFW categories"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:19
+msgid "Single"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:38
+msgid "Classic, no sidebar"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:39
+msgid "Classic, with sidebar"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:64
+msgid "Tags"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:66
+msgid "Prev/Next Links"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:67
+msgid "Author info"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:68
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:183
+msgid "You May Also Like"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:69
+msgid "More from category"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:70
+msgid "Don't miss"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:71
+msgid "Comments"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:85
+msgid "Sticky ShareBar"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:120
+msgid "Overview"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:125
+msgid "page links"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:126
+msgid "page X of Y"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:140
+msgid "Adjacent label"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:145
+msgid "previous | next"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:146
+msgid "previous page | next page"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:147
+msgid "just arrow"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:160
+msgid "Adjacent style"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:165
+msgid "link"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:166
+msgid "button"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:236
+msgid "More From"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-posts-single.php:290
+#: ../bunchy/template-parts/collection-dont-miss.php:43
+msgid "Don't Miss"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:27
+msgid "Show Tagline"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:43
+msgid "Logo"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:59
+msgid "Logo Width"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:76
+msgid "Logo Height"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:93
+msgid "Logo HDPI"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:94
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:176
+msgid "An image for High DPI screen (like Retina) should be twice as big."
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:109
+msgid "Footer Text"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:125
+msgid "Footer Stamp"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:141
+msgid "Footer Stamp Width"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:158
+msgid "Footer Stamp Height"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:175
+msgid "Footer Stamp HDPI"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:192
+msgid "Footer Stamp Label"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:209
+msgid "Footer Stamp URL"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-site-identity.php:215
+msgid "http://"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:29
+msgid "You're previewing the posts page."
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:51
+msgid "Grid"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:154
+msgid "Featured Entries Category"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer-static-front-page.php:171
+msgid "Featured Entries Tag"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer.php:39
+msgid "Posts"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer.php:55
+msgid "Design"
+msgstr ""
+
+#: ../bunchy/includes/admin/customizer/customizer.php:105
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:264
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:286
+msgid "- None -"
+msgstr ""
+
+#: ../bunchy/includes/admin/demo-content.php:40
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: ../bunchy/includes/admin/demo-content.php:41
+#, php-format
+msgid "Demo data import type not allowed. Allowed values: %s."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-bunchy-demo-data.php:54
+msgid "Failed to import content"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-bunchy-demo-data.php:77
+msgid "Theme options imported successfully."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-bunchy-demo-data.php:82
+msgid "Failed to import theme options"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-bunchy-demo-data.php:110
+msgid "Import completed successfully."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-bunchy-demo-data.php:138
+#, php-format
+msgid "Invalid menu \"%s\"."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-bunchy-demo-data.php:143
+#, php-format
+msgid "Invalid location \"%s\"."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:334
+#: ../bunchy/includes/admin/tgm-config.php:193
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:335
+#: ../bunchy/includes/admin/tgm-config.php:194
+msgid "Install Plugins"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:337
+#: ../bunchy/includes/admin/tgm-config.php:195
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:340
+#: ../bunchy/includes/admin/tgm-config.php:197
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:343
+#: ../bunchy/includes/admin/tgm-config.php:198
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:349
+#: ../bunchy/includes/admin/tgm-config.php:200
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:355
+#: ../bunchy/includes/admin/tgm-config.php:210
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:367
+#: ../bunchy/includes/admin/tgm-config.php:204
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:373
+#: ../bunchy/includes/admin/tgm-config.php:206
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:378
+#: ../bunchy/includes/admin/tgm-config.php:214
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:392
+#: ../bunchy/includes/admin/tgm-config.php:216
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:393
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:918
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2624
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3671
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:394
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3250
+#: ../bunchy/includes/admin/tgm-config.php:217
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:395
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3043
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:1025
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:1025
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:1028
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:1028
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:1212
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3039
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2134
+msgid ""
+"The `notices` config parameter was renamed to `has_notices` in TGMPA 2.2.0. "
+"Please adjust your configuration."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2141
+msgid ""
+"The `parent_menu_slug` config parameter was removed in TGMPA 2.4.0. In TGMPA "
+"2.5.0 an alternative was (re-)introduced. Please adjust your configuration. "
+"For more information visit the website: http://tgmpluginactivation.com/"
+"configuration/#h-configuration-options."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2144
+msgid ""
+"The `parent_url_slug` config parameter was removed in TGMPA 2.4.0. In TGMPA "
+"2.5.0 an alternative was (re-)introduced. Please adjust your configuration. "
+"For more information visit the website: http://tgmpluginactivation.com/"
+"configuration/#h-configuration-options."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2364
+msgid "Required"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2367
+msgid "Recommended"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2383
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2386
+msgid "External Source"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2389
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2406
+msgid "Not Installed"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2410
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2412
+msgid "Active"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2418
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2421
+msgid "Requires Update"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2424
+msgid "Update recommended"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2433
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2479
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2483
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2487
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2573
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2581
+msgid "Installed version:"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2589
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2601
+msgid "Available version:"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2624
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2775
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2808
+msgid "Install"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2814
+msgid "Update"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2817
+msgid "Activate"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:2999
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3025
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3598
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3600
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3608
+msgid "Show Details"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3600
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3608
+msgid "Hide Details"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3606
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../bunchy/includes/admin/lib/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../bunchy/includes/admin/metaboxes/page-single-options.php:57
+msgid "Single Page"
+msgstr ""
+
+#: ../bunchy/includes/admin/metaboxes/page-single-options.php:90
+msgid ""
+"Use the &quot;inherit&quot; option to apply settings from the Appearance "
+"&rsaquo; Customize &rsaquo; Posts &rsaquo; Single section."
+msgstr ""
+
+#: ../bunchy/includes/admin/metaboxes/page-single-options.php:102
+msgid "inherit"
+msgstr ""
+
+#: ../bunchy/includes/admin/metaboxes/page-single-options.php:104
+msgid "show"
+msgstr ""
+
+#: ../bunchy/includes/admin/metaboxes/page-single-options.php:153
+msgid "Nonce incorrect!"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:33
+msgid "Snax"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:37
+msgid "Viral front-end uploader"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:52
+msgid "BuddyPress"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:63
+msgid "WordPress Social Login"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:74
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:84
+msgid "Mashshare Share Buttons"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:94
+msgid "WP QUADS"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:97
+msgid "Ad manager"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:105
+msgid "Wordpress Popular Posts"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:115
+msgid "WP Subtitle"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:125
+msgid "G1 Socials"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:129
+msgid "Social media profile icons"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:144
+msgid "Envato Market"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:148
+msgid "Automatic theme updates"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:202
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/tgm-config.php:208
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/tgm-config.php:212
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/tgm-config.php:215
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/includes/admin/tgm-config.php:218
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:220
+msgid "updated"
+msgstr ""
+
+#: ../bunchy/includes/admin/tgm-config.php:240
+msgid "WordPress Importer"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:48
+msgid "Congratulations!"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:50
+msgid ""
+"Demo site was set up and it's ready to customize. We hope you will enjoy it. "
+"Have fun."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:56
+msgid "Join our community"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:60
+msgid "Never miss a news"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:61
+#, php-format
+msgid ""
+"Stay up to date with all upcoming updates, important notes and "
+"announcements. Follow us on <a href=\"%s\" target=\"_blank\">Facebook</a> or "
+"<a href=\"%s\" target=\"_blank\">Twitter</a>."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:65
+msgid "Help us improve the theme"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:66
+#, php-format
+msgid ""
+"Have a feature request, some improvement idea or want to just share with "
+"your thoughts. Don't hesitate to <a href=\"mailto:%s\" target=\"_blank"
+"\">contact with us</a>."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:70
+msgid "Rate the theme"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:71
+#, php-format
+msgid ""
+"If you are happy with our theme and support, please don't forget to rate the "
+"theme on <a href=\"%s\" target=\"_blank\">ThemeForest</a>. Thanks in advance."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:75
+msgid "What's next?"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:79
+msgid "Showcase your work"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:80
+#, php-format
+msgid ""
+"When you finish your site, we will be really glad to see the result. Send "
+"its live url to our <a href=\"mailto:%s\" target=\"_blank\">mailbox</a>."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:84
+msgid "Buy another license"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:85
+msgid "Happy with the theme so far? Buy another license and set up a new site."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:89
+msgid "Need some help?"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:93
+msgid "Check online documentation"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:94
+#, php-format
+msgid ""
+"All information about theme installation, configuration and customization "
+"can be found in our <a href=\"%s\" target=\"_blank\">online documentation</"
+"a>."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:98
+msgid "Use support forum"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-normal.php:99
+#, php-format
+msgid ""
+"Support is conducted through our <a href=\"%s\" target=\"_blank\">support "
+"forum</a>, where you can submit your questions, bug-findings, etc."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-welcome.php:62
+msgid "Welcome to Bunchy - Viral WordPress Theme with Open Lists"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-welcome.php:64
+msgid "You are almost there. Just two easy steps before publishing."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-welcome.php:107
+msgid "Select plugins to install"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-welcome.php:127
+msgid "Select dummy data to import"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-welcome.php:132
+msgid "All data"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-welcome.php:133
+msgid "Content and Theme Options"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-welcome.php:144
+msgid "Continue"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-welcome.php:144
+msgid "Proceed"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dashboard-welcome.php:145
+msgid "Skip"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dynamic-styles.php:33
+msgid "Last action status"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dynamic-styles.php:40
+msgid "Use"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dynamic-styles.php:50
+msgid "internal stylesheet"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dynamic-styles.php:51
+msgid "external file (PHP)"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-dynamic-styles.php:52
+msgid "external file (CSS)"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:21
+msgid "Import demo data"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:29
+msgid "Content (posts, pages, images)"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:37
+msgid "Theme options"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:45
+msgid "All (content and theme options)"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:53
+msgid "Import theme options"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:61
+msgid "Load from file"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:69
+msgid "Export theme options"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:77
+msgid "Export to file"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:99
+#: ../bunchy/includes/plugins/loco-translate.php:61
+msgid "Dismiss this notice."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:111
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:121
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:132
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:143
+msgid "Import"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:122
+msgid "Will override also options from the Customize panel"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-import-export.php:160
+msgid "Export"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-tasks.php:57
+#: ../bunchy/includes/admin/theme-options/theme-options-tasks.php:68
+#: ../bunchy/includes/admin/theme-options/theme-options-tasks.php:79
+msgid "Run now"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options-tasks.php:89
+#: ../bunchy/includes/admin/theme-options/theme-options.php:192
+msgid "Tasks"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options.php:153
+#: ../bunchy/includes/admin/theme-options/theme-options.php:154
+msgid "Theme Options"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options.php:177
+msgid "Dashboard"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options.php:182
+msgid "Import/Export"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options.php:187
+msgid "Dynamic CSS"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options.php:404
+msgid "Clear"
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options.php:527
+msgid "All options imported successfuly."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options.php:575
+msgid "Popular posts generated successfully."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options.php:580
+msgid "Hot posts generated successfully."
+msgstr ""
+
+#: ../bunchy/includes/admin/theme-options/theme-options.php:585
+msgid "Trending posts generated successfully."
+msgstr ""
+
+#: ../bunchy/includes/front/archive.php:355
+msgid "Latest"
+msgstr ""
+
+#: ../bunchy/includes/front/comment.php:40
+msgid "says:"
+msgstr ""
+
+#: ../bunchy/includes/front/comment.php:47
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../bunchy/includes/front/comment.php:50
+#: ../bunchy/includes/front/comment.php:76
+msgid "Edit"
+msgstr ""
+
+#: ../bunchy/includes/front/comment.php:56
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../bunchy/includes/front/comment.php:76
+msgid "Pingback:"
+msgstr ""
+
+#: ../bunchy/includes/front/comment.php:144
+msgid "Email"
+msgstr ""
+
+#: ../bunchy/includes/front/comment.php:162
+msgid "Comment"
+msgstr ""
+
+#: ../bunchy/includes/front/common.php:159
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../bunchy/includes/front/common.php:165
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../bunchy/includes/front/common.php:277
+msgid "Check out this great article: %subject%"
+msgstr ""
+
+#: ../bunchy/includes/front/common.php:278
+#: ../bunchy/includes/front/post.php:603
+msgid "More"
+msgstr ""
+
+#: ../bunchy/includes/front/dynamic-style-cache.php:210
+msgid "Cache file was successfully saved on disk."
+msgstr ""
+
+#: ../bunchy/includes/front/dynamic-style-cache.php:215
+msgid "Caching process failed. Cache file was not saved on disk."
+msgstr ""
+
+#: ../bunchy/includes/front/dynamic-style-cache.php:217
+msgid ""
+"Please check if the directory \"wp-content/uploads\" is writable by your web "
+"server."
+msgstr ""
+
+#: ../bunchy/includes/front/home.php:319
+#: ../bunchy/template-parts/archive-one-featured-classic-sidebar.php:31
+#: ../bunchy/template-parts/collection-featured.php:22
+msgid "Latest stories"
+msgstr ""
+
+#: ../bunchy/includes/front/home.php:322
+msgid "More stories"
+msgstr ""
+
+#: ../bunchy/includes/front/page.php:28
+#: ../bunchy/template-parts/archive-pagination.php:82
+msgid "Next"
+msgstr ""
+
+#: ../bunchy/includes/front/page.php:29
+#: ../bunchy/template-parts/archive-pagination.php:60
+msgid "Previous"
+msgstr ""
+
+#: ../bunchy/includes/front/page.php:35 ../bunchy/includes/front/page.php:39
+msgid "Pages:"
+msgstr ""
+
+#: ../bunchy/includes/front/page.php:37
+#, php-format
+msgid "Page %s of %s"
+msgstr ""
+
+#: ../bunchy/includes/front/page.php:53
+msgid "Next page"
+msgstr ""
+
+#: ../bunchy/includes/front/page.php:54
+msgid "Previous page"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:149
+#, php-format
+msgid "<strong>%s</strong> Shares"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:232
+#, php-format
+msgid "<strong>%s</strong> Views"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:294
+msgid "<strong itemprop=\"commentCount\">0</strong> <span>Comments</span>"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:295
+msgid "<strong itemprop=\"commentCount\">1</strong> <span>Comment</span>"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:296
+msgid "<strong itemprop=\"commentCount\">%</strong> <span>Comments</span>"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:327
+msgid "in"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:576
+#: ../bunchy/includes/front/post-template.php:600
+msgid "Not Safe For Work"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:577
+#: ../bunchy/includes/front/post-template.php:601
+msgid "Click to view this post"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:640
+msgid "by"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:645
+#, php-format
+msgid "Posts by %s"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:673
+msgid "Trending"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:677
+msgid "Hot"
+msgstr ""
+
+#: ../bunchy/includes/front/post-template.php:681
+msgid "Popular"
+msgstr ""
+
+#: ../bunchy/includes/front/post.php:581
+msgctxt "formatted number suffix"
+msgid "M"
+msgstr ""
+
+#: ../bunchy/includes/front/post.php:583
+msgctxt "formatted number suffix"
+msgid "k"
+msgstr ""
+
+#: ../bunchy/includes/plugins/buddypress.php:300
+msgid "Change Group Photo"
+msgstr ""
+
+#: ../bunchy/includes/plugins/loco-translate.php:56
+msgid "IS NOT WRITABLE. TRANSLATION NOT ALLOWED!"
+msgstr ""
+
+#: ../bunchy/includes/plugins/loco-translate.php:59
+#, php-format
+msgid ""
+"Please read how to fix this problem in the <a href=\"%s\" target=\"_blank"
+"\">documentation</a>."
+msgstr ""
+
+#: ../bunchy/includes/plugins/mashsharer.php:186
+msgid "Pinterest"
+msgstr ""
+
+#: ../bunchy/includes/plugins/mashsharer.php:190
+msgid "Google"
+msgstr ""
+
+#: ../bunchy/includes/plugins/quick-adsense-reloaded.php:26
+msgid "Before header theme area"
+msgstr ""
+
+#: ../bunchy/includes/plugins/quick-adsense-reloaded.php:31
+msgid "Before content theme area"
+msgstr ""
+
+#: ../bunchy/includes/plugins/quick-adsense-reloaded.php:36
+msgid "Before \"Related Entries\" section"
+msgstr ""
+
+#: ../bunchy/includes/plugins/quick-adsense-reloaded.php:41
+msgid "Before \"More From\" section"
+msgstr ""
+
+#: ../bunchy/includes/plugins/quick-adsense-reloaded.php:46
+msgid "Before comments area"
+msgstr ""
+
+#: ../bunchy/includes/plugins/quick-adsense-reloaded.php:51
+msgid "Before \"Don't Miss\" section"
+msgstr ""
+
+#: ../bunchy/includes/plugins/quick-adsense-reloaded.php:56
+msgid "Inside grid collection"
+msgstr ""
+
+#: ../bunchy/includes/plugins/quick-adsense-reloaded.php:61
+msgid "Inside list collection"
+msgstr ""
+
+#: ../bunchy/includes/plugins/quick-adsense-reloaded.php:66
+msgid "Inside classic collection"
+msgstr ""
+
+#: ../bunchy/includes/theme-setup.php:78
+msgid "Primary Navigation"
+msgstr ""
+
+#: ../bunchy/includes/theme-setup.php:79
+msgid "User Navigation"
+msgstr ""
+
+#: ../bunchy/includes/theme-setup.php:80
+msgid "Footer Navigation"
+msgstr ""
+
+#: ../bunchy/includes/theme.php:262
+msgid "Primary"
+msgstr ""
+
+#: ../bunchy/includes/theme.php:266 ../bunchy/includes/theme.php:270
+#: ../bunchy/includes/theme.php:278
+msgid "Leave empty to use the Primary sidebar"
+msgstr ""
+
+#: ../bunchy/includes/theme.php:269
+msgid "Single Post"
+msgstr ""
+
+#: ../bunchy/includes/theme.php:273
+msgid "Post Archives"
+msgstr ""
+
+#: ../bunchy/includes/theme.php:274
+msgid ""
+"For posts archive pages (categories, tags). Leave empty to use the Primary "
+"sidebar"
+msgstr ""
+
+#: ../bunchy/includes/theme.php:281
+msgid "Footer 1"
+msgstr ""
+
+#: ../bunchy/includes/theme.php:284
+msgid "Footer 2"
+msgstr ""
+
+#: ../bunchy/includes/theme.php:287
+msgid "Footer 3"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:37
+msgid "Bunchy Facebook Page"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:39
+msgid ""
+"The widget lets you easily embed and promote any Facebook Page on your "
+"website."
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:53
+msgid "Find us on Facebook"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:155
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:188
+msgid "Widget title"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:164
+msgid "Facebook page url"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:174
+msgid "Small header"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:179
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:192
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:205
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:218
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:231
+msgid "no"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:181
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:194
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:207
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:220
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:233
+msgid "yes"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:187
+msgid "Hide cover"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:200
+msgid "Show facepile"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:213
+msgid "Show posts"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:226
+msgid "Delay load"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:239
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:356
+msgid "HTML id attribute (optional)"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-facebook-page.php:248
+msgid "HTML class attribute (optional)"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:36
+msgid "Bunchy Posts"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:38
+msgid "A list of trending posts."
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:129
+#: ../bunchy/snax/widget-list.php:31
+msgid "Sorry. No data so far."
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:197
+msgid "The max. number of entries to show"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:211
+msgid "standard"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:213
+msgid "numbered"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:220
+msgid "Sort by"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:225
+msgid "publish date"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:227
+msgid "comments"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:229
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:345
+msgid "views"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:231
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:339
+msgid "shares"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:259
+msgid "Categories (optional)"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:281
+msgid "Tags (optional)"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:297
+msgid "Hide elements"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:303
+msgid "featured media"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:309
+msgid "categories"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:315
+msgid "summary"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:321
+msgid "author"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:327
+msgid "avatar"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:333
+msgid "date"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:351
+msgid "comments link"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:365
+msgid "HTML class(es) attribute (optional)"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-posts.php:434
+msgid "Trending Now"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-sticky-start-point.php:28
+msgid "Bunchy Sticky Start Point"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-sticky-start-point.php:30
+msgid "Use this widget to define place where sticky elements starts"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-sticky-start-point.php:64
+msgid "Offset"
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-sticky-start-point.php:69
+msgid ""
+"If you have some sticky elements on your site (eg. menu), they can overlap "
+"on sticky sidebar. Set offset here to move the sidebar down."
+msgstr ""
+
+#: ../bunchy/includes/widgets/lib/class-bunchy-widget-sticky-start-point.php:72
+msgid "All subsequent widgets will be sticky"
+msgstr ""
+
+#: ../bunchy/search.php:26
+#, php-format
+msgid "Phrase: %s"
+msgstr ""
+
+#: ../bunchy/search.php:27
+msgid "Search results"
+msgstr ""
+
+#: ../bunchy/searchform.php:25
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../bunchy/searchform.php:29
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../bunchy/searchform.php:38 ../bunchy/searchform.php:42
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: ../bunchy/snax/items/form-new.php:12
+msgid "This list is closed for submission."
+msgstr ""
+
+#: ../bunchy/snax/items/form-new.php:16
+msgid "You don't have sufficient permissions to submit new item."
+msgstr ""
+
+#: ../bunchy/snax/items/form-new.php:20
+msgid "You've reached the limit for adding new items"
+msgstr ""
+
+#: ../bunchy/snax/items/form-new.php:27
+msgid "Add your submission"
+msgstr ""
+
+#: ../bunchy/snax/items/nav.php:12
+msgid "Item navigation"
+msgstr ""
+
+#: ../bunchy/snax/items/nav.php:17 ../bunchy/snax/items/nav.php:19
+msgid "Previous submission"
+msgstr ""
+
+#: ../bunchy/snax/items/nav.php:24 ../bunchy/snax/items/nav.php:26
+msgid "Next submission"
+msgstr ""
+
+#: ../bunchy/snax/items/nav.php:30
+msgid "View full list"
+msgstr ""
+
+#: ../bunchy/snax/posts/form-edit/row-content-title.php:23
+msgid "Enter title&hellip;"
+msgstr ""
+
+#: ../bunchy/snax/posts/voting-box.php:12
+msgid "Leave your vote"
+msgstr ""
+
+#: ../bunchy/template-parts/ad-not-allowed.php:19
+msgid "An ad cannot be displayed here due to one of following reasons"
+msgstr ""
+
+#: ../bunchy/template-parts/ad-not-allowed.php:21
+msgid "ad is not assigned to this location"
+msgstr ""
+
+#: ../bunchy/template-parts/ad-not-allowed.php:22
+msgid "maximum number of ads on a single page has been reached"
+msgstr ""
+
+#: ../bunchy/template-parts/ad-plugin-required.php:19
+#, php-format
+msgid ""
+"This ad cannot be displayed. The <strong>%s</strong> plugin is not activated."
+msgstr ""
+
+#: ../bunchy/template-parts/ad-plugin-required.php:20
+#, php-format
+msgid ""
+"If you want to use other ads plugin, please refer to the <a href=\"%s\" "
+"target=\"_blank\">documentation</a>."
+msgstr ""
+
+#: ../bunchy/template-parts/archive-no-results.php:23
+msgid "Apologies, but no results were found."
+msgstr ""
+
+#: ../bunchy/template-parts/author-info.php:21
+#, php-format
+msgid "Written by <a href=\"%s\"><span itemprop=\"name\">%s</span></a>"
+msgstr ""
+
+#: ../bunchy/template-parts/collection-featured.php:26
+msgid "Most viewed stories"
+msgstr ""
+
+#: ../bunchy/template-parts/collection-featured.php:30
+msgid "Most shared stories"
+msgstr ""
+
+#: ../bunchy/template-parts/collection-featured.php:81
+msgid "No featured entries match the criteria."
+msgstr ""
+
+#: ../bunchy/template-parts/collection-featured.php:82
+msgid "For more information please refer to the documentation."
+msgstr ""
+
+#: ../bunchy/template-parts/collection-more-from.php:57
+#, php-format
+msgid "More From: <a href=\"%s\">%s</a>"
+msgstr ""
+
+#: ../bunchy/template-parts/collection-related.php:65
+msgid "You may also like"
+msgstr ""
+
+#: ../bunchy/template-parts/content-grid-fancy.php:18
+#: ../bunchy/template-parts/content-grid-standard.php:17
+#: ../bunchy/template-parts/content-list-fancy.php:18
+#: ../bunchy/template-parts/content-list-standard.php:17
+#: ../bunchy/template-parts/content-tile-xl.php:19
+#: ../bunchy/template-parts/snax-bar-post.php:12
+#: ../bunchy/template-parts/snax-bar-post.php:14
+msgid "Open list"
+msgstr ""
+
+#: ../bunchy/template-parts/featured-content-1.php:30
+#: ../bunchy/template-parts/featured-content-3.php:30
+msgid "Latest <span>stories</span>"
+msgstr ""
+
+#: ../bunchy/template-parts/featured-content-1.php:34
+#: ../bunchy/template-parts/featured-content-3.php:34
+msgid "Most <span>shared</span>"
+msgstr ""
+
+#: ../bunchy/template-parts/featured-content-1.php:38
+#: ../bunchy/template-parts/featured-content-3.php:38
+msgid "Most <span>viewed</span>"
+msgstr ""
+
+#: ../bunchy/template-parts/most-viewed-empty-list-info.php:20
+msgid ""
+"Please check if the Wordpress Popular Posts plugin is activated. The theme "
+"uses it to calculate this list entries."
+msgstr ""
+
+#: ../bunchy/template-parts/nav-single.php:19
+msgid "See more"
+msgstr ""
+
+#: ../bunchy/template-parts/nav-single.php:21
+msgid "Previous article"
+msgstr ""
+
+#: ../bunchy/template-parts/nav-single.php:22
+msgid "Next article"
+msgstr ""
+
+#: ../bunchy/template-parts/nav-user.php:63
+msgid "Create"
+msgstr ""
+
+#: ../bunchy/template-parts/newsletter-plugin-required.php:19
+#, php-format
+msgid ""
+"This newsletter cannot be displayed. The <strong>%s</strong> plugin is not "
+"activated."
+msgstr ""
+
+#: ../bunchy/template-parts/newsletter-plugin-required.php:20
+#, php-format
+msgid ""
+"If you want to use other newsletter plugin, please refer to the <a href=\"%s"
+"\" target=\"_blank\">documentation</a>."
+msgstr ""
+
+#: ../bunchy/template-parts/snax-bar-item.php:11
+msgid "List item"
+msgstr ""
+
+#: ../bunchy/template-parts/snax-bar-item.php:20
+#, php-format
+msgid "Submitted to <a href=\"%s\">\"%s\"</a>"
+msgstr ""
+
+#: ../bunchy/template-parts/snax-bar-item.php:29
+msgid "Approved"
+msgstr ""
+
+#: ../bunchy/template-parts/snax-bar-item.php:31
+msgid "Pending for review"
+msgstr ""
+
+#: ../bunchy/template-parts/snax-bar-post.php:35
+#, php-format
+msgid "<strong>%d</strong> submission already"
+msgid_plural "<strong>%d</strong> submissions already"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../bunchy/template-parts/snax-bar-post.php:46
+msgid "End date:"
+msgstr ""
+
+#: ../bunchy/template-parts/snax-bar-post.php:48
+msgid "Ends in"
+msgstr ""
+
+#: ../bunchy/template-parts/snax-bar-post.php:56
+msgid "+ Add yours"
+msgstr ""
+
+#: ../bunchy/template-parts/snax-bar-post.php:58
+msgid "+ Add first item"
+msgstr ""
